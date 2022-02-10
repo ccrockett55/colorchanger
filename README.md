@@ -1,2 +1,2 @@
 # colorchanger
-Easy color changing app that uses rgba and hex.
+Easy color changing app using javascript.
